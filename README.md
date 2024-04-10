@@ -35,5 +35,7 @@ It seemed nothing went well for me at that time, which was very unfortunate and 
 My request is for the teaching team to accept my torch trained results for grading. For the sake
 of fairness to the other students, I do not want my score to be placed on the leaderboard and 
 displacing a lot of students, potentially reducing their grades. However, I would like for my
-grades to be evaulated according to my ranking if I was on the leaderboard.
+grades to be evaulated according to my ranking if I was on the leaderboard. I have spent a long
+time on this project and it would be quite frustrating to not receive the credit, just when I
+had it figured out and missing the deadline by seconds.
 ################################################################################################
