@@ -7,6 +7,7 @@ leaderboard, but I would like to be graded as if I was there.
 
 Discussed with Prof. Guo and he will discuss it with the teaching team.
 #################################################################################################
+
 My original code that uses tensorflow/keras did not perform well. I spent a lot of time debugging 
 the code and optimizing, thinking its just a matter of training. However, i later realized that 
 the dictionary might be the issue, where I classify images incorrectly. I was training correctly
@@ -38,4 +39,5 @@ displacing a lot of students, potentially reducing their grades. However, I woul
 grades to be evaulated according to my ranking if I was on the leaderboard. I have spent a long
 time on this project and it would be quite frustrating to not receive the credit, just when I
 had it figured out and missing the deadline by seconds.
+
 ################################################################################################
